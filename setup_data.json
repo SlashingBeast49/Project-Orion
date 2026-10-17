@@ -1,0 +1,10 @@
+{
+  "ready": 1,
+  "setup": 1,
+  "model": "gemini",
+  "name": "",
+  "bio": "",
+  "api_key": "",
+  "theme": "dark",
+  "scaling": 1.0
+}

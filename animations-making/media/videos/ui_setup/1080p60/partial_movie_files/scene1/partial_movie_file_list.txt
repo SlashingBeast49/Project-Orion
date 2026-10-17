@@ -1,0 +1,6 @@
+# This file records the segment order used by Manim.
+file 'file:d:/Documents/GitHub/Project-Orion/animations-making/media/videos/ui_setup/1080p60/partial_movie_files/scene1/e7a18061020d82a6670c116365bd005bc95ca1dc5d4264cb25e3f309ec95aed8.mp4'
+file 'file:d:/Documents/GitHub/Project-Orion/animations-making/media/videos/ui_setup/1080p60/partial_movie_files/scene1/dd79b3331bb8655b8d1ae4f1d7b92e65e3598aa9ccdfa59d55df65a7296b7d50.mp4'
+file 'file:d:/Documents/GitHub/Project-Orion/animations-making/media/videos/ui_setup/1080p60/partial_movie_files/scene1/be5df83806810f927b2a3219f6a7fd311aa2923a39345594cc38141e26f2fbec.mp4'
+file 'file:d:/Documents/GitHub/Project-Orion/animations-making/media/videos/ui_setup/1080p60/partial_movie_files/scene1/95c04aa652b0db0b1c78a877a6d85e7570b249f0854f3130dab58eef763df853.mp4'
+file 'file:d:/Documents/GitHub/Project-Orion/animations-making/media/videos/ui_setup/1080p60/partial_movie_files/scene1/7f3fdd23ff82e8b7ea62daadd8854f523d7ad15c1d0f88e50a35a69a4f76a070.mp4'
